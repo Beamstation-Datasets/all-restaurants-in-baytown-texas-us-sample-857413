@@ -1,0 +1,12 @@
+{
+  "export_job_id": "14cdf39d-9ae0-4e34-a724-e09048d9ffe8",
+  "id_short": 857413,
+  "published_at": "2026-04-18T07:09:41Z",
+  "repo_name": "all-restaurants-in-baytown-texas-us-sample-857413",
+  "sample_asset_name": "beamstation_857413_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/857413/beamstation_857413_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_records": 29,
+  "sample_sha256": "f37a1efb68e8a93ee5434aca2ff2dbfab9bb1998e8ea43996c9a046f214eb069",
+  "sample_size_bytes": 110510,
+  "total_records": 290
+}
