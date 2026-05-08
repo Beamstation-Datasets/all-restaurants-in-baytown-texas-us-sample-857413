@@ -1,6 +1,6 @@
 # All Restaurants in Baytown, Texas, US
 
-> Free BeamStation sample export with 26 rows and masked direct-contact fields.
+> Free BeamStation sample export with 31 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `857413` |
 | Location | Baytown |
 | Category | Restaurants |
-| Full dataset size | 260 records |
-| Free sample size | 26 records (10.0%) |
-| Last export | 2026-04-28T22:12:42.405891+00:00 |
+| Full dataset size | 313 records |
+| Free sample size | 31 records (9.9%) |
+| Last export | 2026-05-07T20:18:43.123793+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-baytown-texas-us-sample-857413/releases/download/sample-latest/beamstation_857413_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
